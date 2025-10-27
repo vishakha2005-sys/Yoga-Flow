@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$20/mo",
+    "img": "https://images.unsplash.com/photo-1697274598105-a5a184da619b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "details": "Access to beginner classes"
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$40/mo",
+    "img": "https://images.unsplash.com/photo-1552196527-bffef41ef674?q=80&w=1026&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "details": "Access to all classes + meditation"
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$60/mo",
+    "img": "https://images.unsplash.com/photo-1616699002805-0741e1e4a9c5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHlvZ2ElMjBjbGFzc3xlbnwwfDB8MHx8fDI%3D",
+    "details": "Unlimited access + personal coach"
+  },
+  {
+    "id": 4,
+    "name": "Annual Plan",
+    "price": "$500/year",
+    "img": "https://images.unsplash.com/photo-1694861786917-b53dd8a86ea6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "details": "Best value for regular practitioners"
+  }
+]
